@@ -4,4 +4,4 @@ plotly
 yfinance
 beautifulsoup4
 requests
-FinanceDataReader
+finance-datareader
